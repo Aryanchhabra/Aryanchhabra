@@ -40,7 +40,7 @@
 ## 🎓 Education
 
 **Bachelor of Engineering - Artificial Intelligence & Data Science**  
-*Savitribai Phule Pune University, Maharashtra* | **CGPA: 8.3/10** | *2022-2025*
+*Savitribai Phule Pune University, Maharashtra* | **CGPA: 8.3/10** | *2021-2025*
 
 **Relevant Coursework:** Machine Learning, Artificial Neural Networks, Artificial Intelligence, Data Modeling and Visualization, Bioinformatics, Information Retrieval, Data Science, Business Intelligence, Big Data Analytics
 
@@ -187,30 +187,11 @@
 
 ---
 
-### 🕵️ [Deceptive Patterns AI Detection System](https://github.com/Aryanchhabra/DeceptiveAI)
-<div align="left">
-<img src="https://img.shields.io/badge/Multi--Agent%20AI-9B59B6?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-2E8B57?style=flat&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP%20Analysis-6B73FF?style=flat&logoColor=white" />
-</div>
-
-🎯 **Intelligent system for detecting manipulative design patterns in digital interfaces**
-- **Multi-Agent Workflow:** Advanced LangGraph orchestration for comprehensive pattern analysis
-- **UI/UX Analysis:** Automated detection of dark patterns in digital interfaces and user experiences
-- **Fact-checking Pipeline:** Real-time validation of findings with cross-source verification
-- **Research Impact:** Contributing to ethical design practices and consumer protection initiatives
-
----
-
 ## 📈 GitHub Performance Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryanchhabra&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_title=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanchhabra&layout=compact&langs_count=8&theme=react"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanchhabra&theme=react" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -225,9 +206,9 @@
 
 | 🎓 **Certification** | 🏢 **Institution** | 📅 **Year** | 🔗 **Credential** |
 |:---|:---|:---:|:---:|
-| **Complete Data Analyst Bootcamp** | Udemy | 2023 | [View →](https://www.udemy.com/) |
-| **Foundations: Data, Data, Everywhere** | Google | 2024 | [View →](https://grow.google/) |
-| **Introduction to Machine Learning** | IIT KGP (NPTEL) | 2024 | [View →](https://nptel.ac.in/) |
+| **Complete Data Analyst Bootcamp** | Udemy | 2025 | 
+| **Foundations: Data, Data, Everywhere** | Google | 2024 |
+| **Introduction to Machine Learning** | IIT KGP (NPTEL) | 2024 | 
 
 </div>
 
@@ -288,7 +269,7 @@
 
 <div align="center">
 
-### ⚡ Fun Fact: *"I believe AI should augment human creativity, not replace it!"*
+### *"I believe AI should augment human creativity, not replace it!"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 

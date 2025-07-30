@@ -204,8 +204,8 @@
 
 <div align="center">
 
-| 🎓 **Certification** | 🏢 **Institution** | 📅 **Year** | 🔗 **Credential** |
-|:---|:---|:---:|:---:|
+| 🎓 **Certification** | 🏢 **Institution** | 📅 **Year** |
+|:---|:---|:---:|
 | **Complete Data Analyst Bootcamp** | Udemy | 2025 | 
 | **Foundations: Data, Data, Everywhere** | Google | 2024 |
 | **Introduction to Machine Learning** | IIT KGP (NPTEL) | 2024 | 

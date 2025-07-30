@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aryan Chhabra 👋
 
-### 🚀 AI Engineer & Data Scientist | 🎓 Final Year AI & DS Student | 🔬 Research Enthusiast
+### 🚀 AI Engineer & Data Scientist | Data Analyst | 🔬 Research Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;LangChain+%26+Generative+AI+Developer;Data+Science+%26+Analytics+Specialist;NLP+%26+Deep+Learning+Enthusiast)](https://git.io/typing-svg)
 
@@ -33,13 +33,13 @@
 
 🔬 **Data Scientist & AI Engineer** with advanced proficiency in Python, SQL, and machine learning, transforming complex data into actionable insights. Specialized in **LangChain, Generative AI, and NLP** with hands-on experience in building production-ready AI applications. Passionate about leveraging AI to automate complex data analysis and research processes.
 
-**Current Focus:** AI-powered applications, Research Automation, Financial Analytics, and Audio Deepfake Detection
+**Current Focus:** AI-powered applications, Research Automation, Financial Analytics, AI automation
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering - Artificial Intelligence & Data Science**  
+**Bachelors of Engineering - Artificial Intelligence & Data Science**  
 *Savitribai Phule Pune University, Maharashtra* | **CGPA: 8.3/10** | *2021-2025*
 
 **Relevant Coursework:** Machine Learning, Artificial Neural Networks, Artificial Intelligence, Data Modeling and Visualization, Bioinformatics, Information Retrieval, Data Science, Business Intelligence, Big Data Analytics

@@ -37,7 +37,7 @@ CGPA: 8.3/10
 `Scikit-learn` `PyTorch` `TensorFlow` `Keras`
 
 **AI Agents & LLMs**  
-`LangChain` `LangGraph` `Hugging Face` `SpaCy` `Google Gemini`
+`LangChain` `LangGraph` `Hugging Face` `SpaCy`
 
 **Data & Visualization**  
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
@@ -72,15 +72,11 @@ End-to-end ownership from data to interface. Preference for simple, robust solut
 
 ---
 
-## GitHub Stats
+## Activity
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Aryanchhabra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" width="400" height="180" alt="GitHub Stats" />
-  
-<img src="https://github-readme-streak-stats.demolab.com/?user=Aryanchhabra&theme=radical&hide_border=true&background=0D1117" width="400" height="180" alt="GitHub Streak" />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanchhabra&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" width="400" height="180" alt="Top Languages" />
+![Snake animation](https://github.com/Aryanchhabra/Aryanchhabra/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 

@@ -20,14 +20,6 @@ Currently exploring multi-agent systems for research and analysis, with an empha
 
 ---
 
-## Education
-
-**B.E. Artificial Intelligence & Data Science**  
-Savitribai Phule Pune University | 2021–2025  
-CGPA: 8.3/10
-
----
-
 ## Stack
 
 **Languages & Databases**  
@@ -79,14 +71,6 @@ End-to-end ownership from data to interface. Preference for simple, robust solut
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryanchhabra&theme=react-dark&hide_border=true&area=true)
   
 </div>
-
----
-
-## Certifications
-
-- Complete Data Analyst Bootcamp — Udemy (2025)
-- Foundations: Data, Data, Everywhere — Google (2024)
-- Introduction to Machine Learning — IIT Kharagpur (2024)
 
 ---
 

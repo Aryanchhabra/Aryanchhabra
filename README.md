@@ -76,7 +76,7 @@ End-to-end ownership from data to interface. Preference for simple, robust solut
 
 <div align="center">
   
-![Snake animation](https://github.com/Aryanchhabra/Aryanchhabra/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Aryanchhabra/Aryanchhabra/gh-pages/github-contribution-grid-snake.svg)
   
 </div>
 

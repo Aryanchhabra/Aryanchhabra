@@ -76,7 +76,7 @@ End-to-end ownership from data to interface. Preference for simple, robust solut
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Aryanchhabra/Aryanchhabra/gh-pages/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryanchhabra&theme=react-dark&hide_border=true&area=true)
   
 </div>
 

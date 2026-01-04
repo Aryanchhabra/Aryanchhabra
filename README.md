@@ -74,15 +74,6 @@ End-to-end ownership from data to interface. Preference for simple, robust solut
 
 ---
 
-## Contact
-
-📧 [aryanchhabra13.ac@gmail.com](mailto:aryanchhabra13.ac@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/aryanchhabraai)  
-🌐 [Portfolio](https://aryanchhabra.vercel.app)  
-🐙 [GitHub](https://github.com/Aryanchhabra)
-
----
-
 <div align="center">
   <i>Building systems with structure, clarity, and intent.</i>
 </div>

@@ -85,15 +85,7 @@ CGPA: 8.3 / 10 | 2021–2025
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryanchhabra&show_icons=true&theme=react&include_all_commits=true&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanchhabra&layout=compact&langs_count=6&theme=react)
-  
-</div>
+## 📊 GitHub Stats <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryanchhabra&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanchhabra&layout=compact&langs_count=6&theme=react"/> </div>
 
 ---
 

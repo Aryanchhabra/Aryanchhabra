@@ -1,8 +1,8 @@
 # Aryan Chhabra
 
-**AI Engineer & Data Scientist** | AI Agents | Machine Learning | Data Intelligence
+**AI Engineer & Data Scientist**
 
-📍 Pune, Maharashtra | 📧 aryanchhabra13.ac@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aryanchhabraai)
+📍 Pune, India | 📧 [aryanchhabra13.ac@gmail.com](mailto:aryanchhabra13.ac@gmail.com) | 🌐 [Portfolio](https://aryanchhabra.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/aryanchhabraai)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aryanchhabra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,97 +10,99 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-AI Engineer and Data Scientist focused on building intelligent, reliable systems that combine strong data foundations with modern LLM-based agent architectures.
+I build AI systems that actually work. Not demos—systems that reason, evaluate, and make decisions.
 
-I specialize in turning loosely defined problems into well-structured AI systems. My work emphasizes reasoning, evaluation, and system design over flashy demos. I am particularly interested in AI agents for research, analysis, and decision support, and in applying data science where it meaningfully improves outcomes.
+My focus is on agent architectures that combine solid data foundations with modern LLM capabilities. I'm interested in the engineering challenges: reducing hallucinations, designing reliable workflows, and building tools that people actually use.
 
----
-
-## 🎓 Education
-
-**B.E. in Artificial Intelligence & Data Science** | Savitribai Phule Pune University  
-CGPA: 8.3 / 10 | 2021–2025
+Currently exploring multi-agent systems for research and analysis, with an emphasis on evaluation and system design over hype.
 
 ---
 
-## 🛠️ Technical Stack
+## Education
 
-### Languages & Databases
+**B.E. Artificial Intelligence & Data Science**  
+Savitribai Phule Pune University | 2021–2025  
+CGPA: 8.3/10
+
+---
+
+## Stack
+
+**Languages & Databases**  
 `Python` `SQL` `JavaScript`
 
-### Machine Learning & Deep Learning
+**ML & Deep Learning**  
 `Scikit-learn` `PyTorch` `TensorFlow` `Keras`
 
-### AI Agents, LLMs & NLP
+**AI Agents & LLMs**  
 `LangChain` `LangGraph` `Hugging Face` `SpaCy` `Google Gemini`
 
-### Data Science & Visualization
+**Data & Visualization**  
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
 
-### Backend, Deployment & Tools
+**Backend & Deployment**  
 `Streamlit` `Flask` `Git` `Docker` `Jupyter`
 
-### Business Intelligence
+**BI Tools**  
 `Power BI` `Tableau`
 
 ---
 
-## 🧠 Core Strengths
+## What I Do
 
-### AI Agents & LLM Systems
-- Designing multi-agent workflows for research and analysis
-- Tool-using agents with memory, planning, and validation
-- Prompt and system design focused on reliability and control
-- Reducing hallucinations through structure and evaluation
+**AI Agents & LLM Systems**  
+Multi-agent workflows, tool-using agents with memory and planning, prompt engineering for reliability, evaluation frameworks to reduce hallucinations.
 
-### Data Science & Machine Learning
-- Problem formulation from ambiguous real-world requirements
-- Feature engineering and model selection
-- Performance evaluation, error analysis, and interpretability
-- Translating model outputs into actionable insights
+**Data Science & ML**  
+Problem formulation, feature engineering, model selection, performance evaluation, translating outputs into actionable insights.
 
-### System Thinking
-- End-to-end ownership from data to interface
-- Preference for simple, robust solutions
-- Designing systems that scale and remain maintainable
-
-### Communication
-- Clear explanation of complex technical ideas
-- Strong documentation and structured thinking
-- Good intuition for UX in data and AI products
+**System Design**  
+End-to-end ownership from data to interface. Preference for simple, robust solutions that scale and remain maintainable.
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 
-- AI agents for research, analysis, and decision-making
-- LLM orchestration using LangChain and LangGraph
-- Improving agent reliability, reasoning depth, and evaluation
+- Multi-agent systems for research and decision support
+- LLM orchestration with LangChain/LangGraph
+- Agent reliability, reasoning depth, and evaluation
 - Data-driven automation and intelligent workflows
 
-> I am selective about what I build and showcase.  
-> Clarity, correctness, and long-term usefulness matter more than volume.
+---
+
+## GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Aryanchhabra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" width="400" height="180" alt="GitHub Stats" />
+  
+<img src="https://github-readme-streak-stats.demolab.com/?user=Aryanchhabra&theme=radical&hide_border=true&background=0D1117" width="400" height="180" alt="GitHub Streak" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanchhabra&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" width="400" height="180" alt="Top Languages" />
+  
+</div>
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
-- **Complete Data Analyst Bootcamp** — Udemy (2025)
-- **Foundations: Data, Data, Everywhere** — Google (2024)
-- **Introduction to Machine Learning** — IIT Kharagpur (2024)
+- Complete Data Analyst Bootcamp — Udemy (2025)
+- Foundations: Data, Data, Everywhere — Google (2024)
+- Introduction to Machine Learning — IIT Kharagpur (2024)
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 📧 **Email:** aryanchhabra13.ac@gmail.com
-- 💼 **LinkedIn:** [aryanchhabraai](https://www.linkedin.com/in/aryanchhabraai)
-- 🐙 **GitHub:** [Aryanchhabra](https://github.com/Aryanchhabra)
+📧 [aryanchhabra13.ac@gmail.com](mailto:aryanchhabra13.ac@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/aryanchhabraai)  
+🌐 [Portfolio](https://aryanchhabra.vercel.app)  
+🐙 [GitHub](https://github.com/Aryanchhabra)
 
 ---
 
 <div align="center">
-  <i>Building intelligent systems with structure, clarity, and intent.</i>
+  <i>Building systems with structure, clarity, and intent.</i>
 </div>

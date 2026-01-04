@@ -85,18 +85,6 @@ CGPA: 8.3 / 10 | 2021–2025
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/Aryanchhabra?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF)
-![GitHub stars](https://img.shields.io/github/stars/Aryanchhabra?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF)
-![GitHub commits](https://img.shields.io/github/commit-activity/m/Aryanchhabra?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF)
-  
-</div>
-
----
-
 ## 🎓 Certifications
 
 - **Complete Data Analyst Bootcamp** — Udemy (2025)
